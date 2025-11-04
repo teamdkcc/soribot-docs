@@ -2,8 +2,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,node,intellij+all,visualstudiocode,dotenv,git,yarn
 
 ### VitePress ###
-.vitepress/dist/
-.vitepress/cache/
+/docs/.vitepress/dist/
+/docs/.vitepress/cache/
 
 ### dotenv ###
 .env
