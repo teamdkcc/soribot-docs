@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "soribot-docs"
+  name: "솔이 도움말"
   text: "soribot docs website"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 빠르게 시작하기
+      link: /setup
     - theme: alt
-      text: API Examples
+      text: 기능 살펴보기
       link: /api-examples
 
 features:
